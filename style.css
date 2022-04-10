@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+.jumbotron{
+	background: #8E0E00;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	
+}
+form{
+	margin: auto;
+	width: 500px;
+}
+h3{
+	text-align: center;
+}
+.btn-primary{
+	border-color: yellow;
+}
+.move{
+	margin-top: 40px;
+}
+#login{
+text-align: center;
+	background-color: #2980b9;
+	color: #ffffff;
+	margin: 0;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 24px;
+
+
+}
+.right{
+	float: right;
+}
+.down{
+	margin-top: 20px;
+}
+#center{
+	text-align: center;
+}
+.intro{
+	color: white;
+
+}
+.lead{
+	color: lightgrey;
+}
